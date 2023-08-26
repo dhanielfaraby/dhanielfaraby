@@ -11,7 +11,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanielfaraby&show_icons=true&locale=en&layout=compact&theme=tokyonight-duo" alt="dhanielfaraby" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanielfaraby&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dhanielfaraby" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanielfaraby&theme=tokyonight-duo" alt="dhanielfaraby" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanielfaraby&theme=tokyonight" alt="dhanielfaraby" /></p>
