@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on **Prof Dr. Sulianti Saroso Infectious Disesases Hospital**
 
-This year, I plan to challenge myself by building a CRUD website that may come in handy for college students in need of urgent assignment assistance. I'll be documenting my journey on GitHub, so feel free to join in and follow along!
+This year, I plan to challenge myself by building a CRUD website that may come in handy for college students in need of urgent assignment assistance. 
+I'll be documenting my journey on GitHub, so feel free to join in and follow along!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
