@@ -13,8 +13,3 @@ I'll be documenting my journey on GitHub, so feel free to join in and follow alo
 </p>
 
 
-
-              
-
-![Visitor Count](https://profile-counter.glitch.me/dhanielfaraby/count.svg)
-
